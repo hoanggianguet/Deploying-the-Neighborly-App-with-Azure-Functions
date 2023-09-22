@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "MyDbConnection": "mongodb://neighborlyapp-cosmosdb:08diRdkZz5FPVTxylofVCUrI21YqR34Ud4F5687xkBkvC2Tb3mSio1aQcXLaGfCIYRLyIqUOHiMhACDb0LPgow==@neighborlyapp-cosmosdb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@neighborlyapp-cosmosdb@",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=ea86d7a8-8002-4769-82f0-8ad903b37e10;IngestionEndpoint=https://eastasia-0.in.applicationinsights.azure.com/;LiveEndpoint=https://eastasia.livediagnostics.monitor.azure.com/",
+    "AzureWebJobsSecretStorageType": "files",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=neighborlyazure;AccountKey=VzURtqlDIoRsYoRIKBKjKxOCbS0OTxjq3gDivwVzKo7Ax4HP2DX7kr41nVVatqPtbnu2StBcGT0x+AStVe4Khg==",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=neighborlyazure;AccountKey=VzURtqlDIoRsYoRIKBKjKxOCbS0OTxjq3gDivwVzKo7Ax4HP2DX7kr41nVVatqPtbnu2StBcGT0x+AStVe4Khg=="
+  },
+  "ConnectionStrings": {}
+}
