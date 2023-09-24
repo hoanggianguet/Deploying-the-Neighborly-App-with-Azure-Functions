@@ -1,13 +1,14 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "MyDbConnection": "mongodb://neighborlyapp-cosmosdb:08diRdkZz5FPVTxylofVCUrI21YqR34Ud4F5687xkBkvC2Tb3mSio1aQcXLaGfCIYRLyIqUOHiMhACDb0LPgow==@neighborlyapp-cosmosdb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@neighborlyapp-cosmosdb@",
+    "MyDbConnection": "mongodb://neighborlyapp-database:09N3bqwpsxzoF7gy0qqWKhH818HM2d8jzedtsJ24S8ukldAFM7PPndiSAGUWHet3ZqAgYVRG9qyHACDbZ7sCeA==@neighborlyapp-database.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@neighborlyapp-database@",
     "FUNCTIONS_WORKER_RUNTIME": "python",
-    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=ea86d7a8-8002-4769-82f0-8ad903b37e10;IngestionEndpoint=https://eastasia-0.in.applicationinsights.azure.com/;LiveEndpoint=https://eastasia.livediagnostics.monitor.azure.com/",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=7da44a66-face-4737-98f2-a08605dfe706;IngestionEndpoint=https://eastasia-0.in.applicationinsights.azure.com/;LiveEndpoint=https://eastasia.livediagnostics.monitor.azure.com/",
     "AzureWebJobsSecretStorageType": "files",
     "FUNCTIONS_EXTENSION_VERSION": "~4",
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=neighborlyazure;AccountKey=VzURtqlDIoRsYoRIKBKjKxOCbS0OTxjq3gDivwVzKo7Ax4HP2DX7kr41nVVatqPtbnu2StBcGT0x+AStVe4Khg==",
-    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=neighborlyazure;AccountKey=VzURtqlDIoRsYoRIKBKjKxOCbS0OTxjq3gDivwVzKo7Ax4HP2DX7kr41nVVatqPtbnu2StBcGT0x+AStVe4Khg=="
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=neighborlyappresour8b3b;AccountKey=OCweZpqojA9Al3MPYWu7cJ1GQ3bwEuI5p8pejjdlpbGbsWCNzXcOxW+vwlVt5IaPZFa+u70Ip8VF+AStD2mPyQ==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=neighborlyappresour8b3b;AccountKey=OCweZpqojA9Al3MPYWu7cJ1GQ3bwEuI5p8pejjdlpbGbsWCNzXcOxW+vwlVt5IaPZFa+u70Ip8VF+AStD2mPyQ==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "neighborlyapp-functiona492"
   },
   "ConnectionStrings": {}
 }
